@@ -29,3 +29,5 @@ Run Tests:
 ```
 dotnet test *solution file*
 ```
+
+## Configuration
