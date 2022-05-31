@@ -39,9 +39,10 @@ for any bug fixes.
 in case of vulnerabilities. 
 
 ## [v0.0.1](https://github.com/efteling/repo-template/compare/v0.0.0...v0.0.1) - 2022-05-30
-### Commits
 
-- wip [`e3d132f`](https://github.com/efteling/repo-template/commit/e3d132fef80bc8bfa393842056b7bb964f5d77e0)
+### Added 
+
+- Add CI workflow file [`e3d132f`](https://github.com/efteling/repo-template/commit/e3d132fef80bc8bfa393842056b7bb964f5d77e0)
 
 ## v0.0.0 - 2022-05-30
 
