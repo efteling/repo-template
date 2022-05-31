@@ -13,7 +13,7 @@
 1. Wait <a href="../../actions">Setup Repository Action</a> to complete.
 1. That's it, easy isn't it?
 
-# *{{ cookiecutter.project_name }}*
+# *{{cookiecutter.project_name}}*
 
 [![CI](https://github.com/efteling/repo-template/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/efteling/repo-template/actions/workflows/ci.yaml)
 
