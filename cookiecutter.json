@@ -2,6 +2,6 @@
     "source_dir": "src",
     "name_of_project": "My Cool New Project",
     "project_short_description": "Explain your project",
-    "solution_name": "{{ cookiecutter.name_of_project.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
-    "project_name": "{{ cookiecutter.solution_name.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}"
+    "solution_name": "{{ cookiecutter.name_of_project|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
+    "project_name": "{{ cookiecutter.solution_name|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}.Core"
 }
